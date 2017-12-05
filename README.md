@@ -8,6 +8,7 @@ showing how to use Github tohgether
 ## Introduction
 
 ##Purpose
+This is example of how to show different parts of the Git repository and various commands usng a web project.
 
 ##deployment
 
